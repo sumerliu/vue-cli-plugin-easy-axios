@@ -1,0 +1,24 @@
+{
+  "name": "vue-cli-plugin-easy-axios",
+  "version": "0.1.0",
+  "description": "Vue cli 3 plugin to use axios and esaier axios",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumerliu/vue-cli-plugin-easy-axios.git"
+  },
+  "homepage": "https://github.com/sumerliu/vue-cli-plugin-easy-axios#readme",
+  "scripts": {},
+  "keywords": [
+    "Axios",
+    "axios",
+    "vue-axios",
+    "vue",
+    "axios",
+    "vue",
+    "plugin",
+    "easier-axios"
+  ],
+  "author": "Sumer Liu<livialiu1234@gmail.com>",
+  "license": "MIT"
+}
