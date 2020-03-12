@@ -2,9 +2,9 @@
 
 > 基于easier-axios封装的Vuecli插件
 
-> version:  0.0.10
+> version:  0.0.11
 
-> lastDate: 2020/3/10
+> lastDate: 2020/3/12
 
 > Author:  Sumer Liu
 
