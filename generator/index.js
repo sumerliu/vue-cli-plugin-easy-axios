@@ -2,7 +2,7 @@ module.exports = (api, options, rootOptions) => {
     api.extendPackage({
       devDependencies: {
         "axios": "^0.19.2",
-        "esaier-axios": "^0.0.12"
+        "esaier-axios": "^0.0.13"
       }
     });
   

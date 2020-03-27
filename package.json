@@ -1,6 +1,6 @@
 {
   "name": "vue-cli-plugin-easy-axios",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "description": "Vue cli 3 plugin to use axios and esaier axios",
   "private": false,
   "repository": {
